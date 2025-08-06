@@ -1,14 +1,14 @@
 # Orange-Movie-Recommender
 Simple, interactive **movie recommendation system** built using **Orange Data Mining**, a visual programming tool for data analysis and machine learning.
 
-This project is a beginner-friendly movie recommendation system, built entirely using Orange Data Mining, a drag-and-drop tool that makes machine learning super accessible — no coding required.
+This project is a beginner friendly movie recommendation system, built entirely using Orange Data Mining, a drag and drop tool that makes machine learning super accessible no coding required.
 I wanted to explore how we can cluster similar movies together based on features like genre, IMDb rating, runtime, and release year. The idea was to identify groups of similar movies and recommend titles based on these clusters.
 I started by loading a dataset of movies into Orange, selected relevant features, and used the K-Means Clustering widget to group them. To understand how well the clustering was working, I added a Silhouette Score widget for evaluation.
-Then came the fun part: t-SNE visualization. This widget gave me a cool 2D map of the clustered movies, helping me see how well-separated the groups were. Each dot on the map represented a movie, and similar movies stayed close together.
+Then came the fun part, t-SNE visualization. This widget gave me a cool 2D map of the clustered movies, helping me see how well separated the groups were. Each dot on the map represented a movie, and similar movies stayed close together.
 While this project doesn't take in user input or do real-time personalization (yet!), it sets the stage for building something more advanced. Features like filtering by genre or rating can easily be added using the "Select Rows" widget.
 
 Tools Used
-- Orange (No-code ML platform)
+- Orange (No code ML platform)
 - K-Means Clustering
 - t-SNE for visualization
 - Silhouette score for cluster evaluation
