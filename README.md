@@ -1,8 +1,4 @@
 # Orange-Movie-Recommender
-A movie recommendation system built using Orange Data Mining Tool
-
-Movie Recommendation System (Orange)
-
 This is a simple, interactive **movie recommendation system** built using **Orange Data Mining**, a visual programming tool for data analysis and machine learning.
 
 Tools Used
