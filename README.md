@@ -1,4 +1,4 @@
-# Orange-Movie-Recommender
+#Movie-Recommender
 Interactive **movie recommendation system** built using **Orange Data Mining**, a visual programming tool for data analysis and machine learning.
 
 This project is a movie recommendation system, built entirely using Orange Data Mining, a drag and drop tool that makes machine learning super accessible no coding required.
